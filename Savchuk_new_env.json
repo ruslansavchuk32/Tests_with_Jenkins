@@ -1,0 +1,117 @@
+{
+	"id": "e663d53e-a7e4-4d0e-8cf7-ef61bc77c073",
+	"name": "Savchuk_new_env",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.herokuapp.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "firstname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "totalPrice",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "depositPaid",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "checkinDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "checkoutDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "additionalNeeds",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstNameAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lastNameAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "totalPriceAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "depositPaidAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "checkinDateAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "checkoutDateAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "additionalNeedsAfterUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-10-18T20:03:31.150Z",
+	"_postman_exported_using": "Postman/11.67.5"
+}
