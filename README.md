@@ -1,5 +1,5 @@
 API Tests  Restful Booker
- Вміст
+Вміст
 collection.json  Колекція запитів Postman
 
 environment.json  Середовище зі змінними
