@@ -1,2 +1,7 @@
-# Tests_with_Jenkins
-my tests 
+API Tests  Restful Booker
+ Вміст
+collection.json  Колекція запитів Postman
+
+environment.json  Середовище зі змінними
+
+README.md  Цей файл
